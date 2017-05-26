@@ -476,12 +476,13 @@ h6,
 }
 #header1-0 .mbr-section-title {
   font-family: 'Merriweather', serif;
-  color: #2969b0;
+  color: #ffffff;
   font-size: 46px;
 }
 #footer1-7 P {
   text-align: right;
 }
+
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -550,6 +551,11 @@ h6,
   color: #2969b0;
   font-size: 48px;
 }
+#gallery4-5 .mbr-gallery-item > div > span {
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: #000000;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -617,70 +623,6 @@ h6,
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
-}
-#menu-9 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-9 .navbar-caption {
-  color: #ffffff;
-}
-#menu-9 .navbar-toggler {
-  color: #2969b0;
-}
-#menu-9 .close-icon::before,
-#menu-9 .close-icon::after {
-  background-color: #2969b0;
-}
-#menu-9 .link,
-#menu-9 .dropdown-item {
-  color: #2969b0;
-}
-#menu-9 .link {
-  font-size: 1rem;
-}
-#menu-9 .dropdown-item,
-#menu-9 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-9 .link:hover,
-#menu-9 .dropdown-item:hover,
-#menu-9 .link:focus,
-#menu-9 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-9 .link[aria-expanded="true"],
-#menu-9 .dropdown-menu {
-  background: #000000;
-}
-#menu-9 .nav-dropdown-sm .link:focus,
-#menu-9 .nav-dropdown-sm .link:hover,
-#menu-9 .nav-dropdown-sm .dropdown-item:focus,
-#menu-9 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-9 .navbar,
-#menu-9 .nav-dropdown-sm,
-#menu-9 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-9 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-9 .bg-color.transparent .link {
-  color: #2969b0;
-  transition: none;
-}
-#menu-9 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-9 .bg-color.transparent.opened .link:hover,
-#menu-9 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-9 .link[aria-expanded="true"],
-#menu-9 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#footer1-a P {
-  text-align: right;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -828,4 +770,86 @@ h6,
 }
 #footer1-3 P {
   text-align: right;
+}
+
+#msg-box8-2 .mbr-section-title,
+#msg-box8-2 p {
+  color: #fff;
+}
+#footer1-a P {
+  text-align: right;
+}
+#header3-0 .mbr-section-title,
+#header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-0 H3 {
+  text-align: right;
+  font-size: 22px;
+  font-family: 'Lora', serif;
+}
+#header3-0 I {
+  text-align: right;
+  color: #000000;
+}
+#menu-2 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2 .navbar-caption {
+  color: #ffffff;
+}
+#menu-2 .navbar-toggler {
+  color: #2969b0;
+}
+#menu-2 .close-icon::before,
+#menu-2 .close-icon::after {
+  background-color: #2969b0;
+}
+#menu-2 .link,
+#menu-2 .dropdown-item {
+  color: #2969b0;
+}
+#menu-2 .link {
+  font-size: 1rem;
+}
+#menu-2 .dropdown-item,
+#menu-2 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-2 .link:hover,
+#menu-2 .dropdown-item:hover,
+#menu-2 .link:focus,
+#menu-2 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2 .link[aria-expanded="true"],
+#menu-2 .dropdown-menu {
+  background: #000000;
+}
+#menu-2 .nav-dropdown-sm .link:focus,
+#menu-2 .nav-dropdown-sm .link:hover,
+#menu-2 .nav-dropdown-sm .dropdown-item:focus,
+#menu-2 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-2 .navbar,
+#menu-2 .nav-dropdown-sm,
+#menu-2 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-2 .bg-color.transparent .link {
+  color: #2969b0;
+  transition: none;
+}
+#menu-2 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2 .bg-color.transparent.opened .link:hover,
+#menu-2 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2 .link[aria-expanded="true"],
+#menu-2 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
 }
